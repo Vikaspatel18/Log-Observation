@@ -41,11 +41,11 @@
 
 <ul>
  	<li>
-<a href="https://vikaspatel.tech/wp-content/uploads/2023/04/6-1.png">
+<a href="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-10-39-28.png">
   <img class="alignnone size-full wp-image-180" src="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-10-39-28.png" alt="" />
 </a>
   
-<a href="https://vikaspatel.tech/wp-content/uploads/2023/04/6-1.png">
+<a href="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-10-34-10.png">
   <img class="alignnone size-full wp-image-180" src="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-10-34-10.png" alt="" />
 </a>
     
@@ -54,14 +54,14 @@
 &nbsp;
 <ul>
  	<li>
-<h5 dir="auto">Now try to ping the IP Address of the VM in CMD...<a href="https://vikaspatel.tech/wp-content/uploads/2023/04/6-1.png">
+<h5 dir="auto">Now try to ping the IP Address of the VM in CMD...<a href="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-10-41-56.png">
   <img class="alignnone size-full wp-image-180" src="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-10-41-56.png" alt="" />
 </a>
 </h5>
 </li>
  	<li><h5 dir="auto"> It didn't work because we need to remote in and change the firewall setting within the VM as well.</h5></li>
  	<li>
-<h5>Now observe the changes in Terminal<a href="https://vikaspatel.tech/wp-content/uploads/2023/04/6-1.png">
+<h5>Now observe the changes in Terminal<a href="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-10-46-17.png"">
   <img class="alignnone size-full wp-image-180" src="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-10-46-17.png" alt="" />
 </a></h5>
 </li>
@@ -77,19 +77,19 @@
  	<li>
 <h5 dir="auto"> Install SSMS (SQL Server Management Studio) 
   
-<a href="https://vikaspatel.tech/wp-content/uploads/2023/04/6-1.png">
+<a href="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-10-51-25.png">
   <img class="alignnone size-full wp-image-180" src="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-10-51-25.png" alt="" />
 </a>
   
-<a href="https://vikaspatel.tech/wp-content/uploads/2023/04/6-1.png">
+<a href="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-10-52-00.png">
   <img class="alignone size-full wp-image-180" src="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-10-52-00.png" alt="" />
 </a>
 
-<a href="https://vikaspatel.tech/wp-content/uploads/2023/04/6-1.png">
+<a href="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-10-52-32.png">
   <img class="alignnone size-full wp-image-180" src="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-10-52-32.png" alt="" />
 </a>
 
-<a href="https://vikaspatel.tech/wp-content/uploads/2023/04/6-1.png">
+<a href="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-10-53-53.png">
   <img class="alignnone size-full wp-image-180" src="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-10-53-53.png" alt="" />
 </a> 
 
@@ -142,7 +142,7 @@
 <h5 dir="auto">Close the command prompt window.</h5>
 </li>
 </ul>
-<a href="https://vikaspatel.tech/wp-content/uploads/2023/04/6-1.png">
+<a href="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-10-57-30.png">
   <img class="align none size-full wp-image-180" src="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-10-57-30.png" alt="" />
 </a> 
     <!--img class="align-center" src="https://camo.githubusercontent.com/639d2f8358a8a9a63c2b5b6a2ed073a5d0dc5866f3c434ea2a29944361e7ff39/68747470733a2f2f692e696d6775722e636f6d2f4c436a4b6a49672e706e67" width="1809" height="333" /-->
@@ -155,7 +155,7 @@
  	<li>
 <h5 dir="auto">Now, Intentionally enter the wrong username and password to do a failed login attempt.
 
-<a href="https://vikaspatel.tech/wp-content/uploads/2023/04/6-1.png">
+<a href="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-11-13-27.png">
   <img class="alignnone size-full wp-image-180" src="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-11-13-27.png" alt="" />
 </a></h5>
 </li>
@@ -166,7 +166,7 @@
  	<li>
 <h5 dir="auto">Enter Event Viewer, Select Application, and View SQL Management Logs Entries:
   
-  <a href="https://vikaspatel.tech/wp-content/uploads/2023/04/6-1.png">
+  <a href="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-11-14-15.png">
   <img class="alignnone size-full wp-image-180" src="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-11-14-15.png" alt="" />
 </a></h5>
 </li>
@@ -186,13 +186,13 @@
 <h5 dir="auto">We are creating an attack vm the goal is to have a different region so it looks like a threat is attacking our windows-VM.</h5>
 </li>
  	<li>
-<h5 dir="auto">I have created one different vm in different zone.<a href="https://vikaspatel.tech/wp-content/uploads/2023/04/6-1.png">
+<h5 dir="auto">I have created one different vm in different zone.<a href="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-11-23-25.png">
   <img class="alignnone size-full wp-image-180" src="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-11-23-25.png" alt="" />
 </a></h5>
 </li>
  	<li>
 <h5 dir="auto">We will now generate some failed RDP (remote desktop protocol) logs against the windows-vm from the attacker vm.
-  <a href="https://vikaspatel.tech/wp-content/uploads/2023/04/6-1.png">
+  <a href="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-11-27-49.png">
   <img class="alignnone size-full wp-image-180" src="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-11-27-49.png" alt="" />
 </a></h5>
 </li>
@@ -200,7 +200,7 @@
 <h5 dir="auto" >We will attempt this 5 times with the wrong username and password.</h5>
 </li>
  	<li>
-<h5 dir="auto">We then go to event viewer and see all the failed login attempts <a href="https://vikaspatel.tech/wp-content/uploads/2023/04/6-1.png">
+<h5 dir="auto">We then go to event viewer and see all the failed login attempts <a href="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-11-31-16.png">
   <img class="alignnone size-full wp-image-180" src="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-11-31-16.png" alt="" />
 </a></h5>
 </li>
@@ -209,11 +209,11 @@
 </li>
  	<li>
 <h5 dir="auto">Enter the wrong password 5 times
-<a href="https://vikaspatel.tech/wp-content/uploads/2023/04/6-1.png">
+<a href="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-11-42-18.png">
   <img class="alignnone size-full wp-image-180" src="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-11-42-18.png" alt="" />
 </a>
 
-  <a href="https://vikaspatel.tech/wp-content/uploads/2023/04/6-1.png">
+  <a href="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-11-46-34.png">
   <img class="alignnone size-full wp-image-180" src="https://vikaspatel.tech/wp-content/uploads/2023/07/Screenshot-from-2023-07-09-11-46-34.png" alt="" />
 </a>
 </h5>
